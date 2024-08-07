@@ -3,8 +3,7 @@
 
 ## Introduction
 
-Welcome to my web portfolio
-
+**Welcome to my web ppage**
 ## Development Process
 
 ### Planning and Design
@@ -44,7 +43,7 @@ Managing and optimizing assets, such as images and custom fonts, was essential f
 - **Tools**: 
   - [Figma]
   - [Adobe Creative Suite]
-  - [ImageOptim](https://imageoptim.com/mac) 
+  
 
 ## Conclusion
 
